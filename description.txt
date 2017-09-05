@@ -1,0 +1,1 @@
+Je vais utiliser ce dépôt afin de mieux comprendre le fonctionnement de GIT
